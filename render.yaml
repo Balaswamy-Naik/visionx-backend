@@ -10,6 +10,3 @@ services:
         value: 3.10
       - key: JWT_SECRET
         value: "replace-with-a-strong-secret"
-      # Uncomment and add if you want OpenAI live chat
-      # - key: OPENAI_API_KEY
-      #   value: "sk-xxxx"
